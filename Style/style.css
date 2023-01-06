@@ -38,3 +38,14 @@ header{
     background-color:#F15B22;
     border-radius: 5px;
 }
+main{
+    margin: 131px 150px;
+}
+.image-failure-part{
+    display: flex;
+    align-items: center;
+    gap:80px;
+}
+.font-awesome{
+    margin-right: 9px;
+}
