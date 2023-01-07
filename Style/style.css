@@ -55,6 +55,9 @@ main{
 .font-awesome{
     margin-right: 9px;
 }
+span{
+    color: #F15B22;
+}
 .my-plans{
     font-weight: 700;
     font-size: 40px;
